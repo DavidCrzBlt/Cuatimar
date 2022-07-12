@@ -28,10 +28,13 @@
                               <a href="contacto" class="text-reset">Contacto</a>
                          </p>
                          <p>
-                              <a href="privacidad" class="text-reset">Aviso de privacidad</a>
+                              <a href="aviso_priv" class="text-reset">Aviso de privacidad</a>
                          </p>
                          <p>
-                              <a href="privacidad" class="text-reset">Código de ética</a>
+                              <a href="static/documents/Codigo_etica.pdf" class="text-reset">Código de ética</a>
+                         </p>
+                         <p>
+                              <a href="static/documents/Curriculum empresarial oficial.pdf" class="text-reset">Curriculum empresarial</a>
                          </p>
                          <p>
                               <a href="mailto:quejas@cuatimarconstrucciones.com.mx?Subject=Quejas" target="blank" class="text-reset">Quejas y sugerencias</a>
